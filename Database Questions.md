@@ -1,0 +1,1 @@
+1. Write SQL or Mongo pipeline to find the employee with the second highest salary. (There maybe multiple employees with same salary)
