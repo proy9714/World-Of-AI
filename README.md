@@ -1,3 +1,3 @@
-# The world of AI
+# The World of AI
 
-## Various notebooks for various functionailites of AI
+### Various notebooks for various functionailites of AI
